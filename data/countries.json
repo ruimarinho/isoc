@@ -1,0 +1,2821 @@
+[
+  {
+    "alpha2": "AF",
+    "alpha3": "AFG",
+    "independent": "Yes",
+    "name": {
+      "short": "Afghanistan",
+      "uppercase": "AFGHANISTAN"
+    },
+    "numeric": "004",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "AL",
+    "alpha3": "ALB",
+    "independent": "Yes",
+    "name": {
+      "short": "Albania",
+      "uppercase": "ALBANIA"
+    },
+    "numeric": "008",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "DZ",
+    "alpha3": "DZA",
+    "independent": "Yes",
+    "name": {
+      "short": "Algeria",
+      "uppercase": "ALGERIA"
+    },
+    "numeric": "012",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "AS",
+    "alpha3": "ASM",
+    "independent": "Territory of US",
+    "name": {
+      "short": "American Samoa",
+      "uppercase": "AMERICAN SAMOA"
+    },
+    "numeric": "016",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "AD",
+    "alpha3": "AND",
+    "independent": "Yes",
+    "name": {
+      "short": "Andorra",
+      "uppercase": "ANDORRA"
+    },
+    "numeric": "020",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "AO",
+    "alpha3": "AGO",
+    "independent": "Yes",
+    "name": {
+      "short": "Angola",
+      "uppercase": "ANGOLA"
+    },
+    "numeric": "024",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "AI",
+    "alpha3": "AIA",
+    "independent": "Territory of GB",
+    "name": {
+      "short": "Anguilla",
+      "uppercase": "ANGUILLA"
+    },
+    "numeric": "660",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "AQ",
+    "alpha3": "ATA",
+    "independent": "International",
+    "name": {
+      "short": "Antarctica",
+      "uppercase": "ANTARCTICA"
+    },
+    "numeric": "010",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "AG",
+    "alpha3": "ATG",
+    "independent": "Yes",
+    "name": {
+      "short": "Antigua and Barbuda",
+      "uppercase": "ANTIGUA AND BARBUDA"
+    },
+    "numeric": "028",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "AR",
+    "alpha3": "ARG",
+    "independent": "Yes",
+    "name": {
+      "short": "Argentina",
+      "uppercase": "ARGENTINA"
+    },
+    "numeric": "032",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "AM",
+    "alpha3": "ARM",
+    "independent": "Yes",
+    "name": {
+      "short": "Armenia",
+      "uppercase": "ARMENIA"
+    },
+    "numeric": "051",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "AW",
+    "alpha3": "ABW",
+    "independent": "Part of NL",
+    "name": {
+      "short": "Aruba",
+      "uppercase": "ARUBA"
+    },
+    "numeric": "533",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "AU",
+    "alpha3": "AUS",
+    "independent": "Yes",
+    "name": {
+      "short": "Australia",
+      "uppercase": "AUSTRALIA"
+    },
+    "numeric": "036",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "AT",
+    "alpha3": "AUT",
+    "independent": "Yes",
+    "name": {
+      "short": "Austria",
+      "uppercase": "AUSTRIA"
+    },
+    "numeric": "040",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "AZ",
+    "alpha3": "AZE",
+    "independent": "Yes",
+    "name": {
+      "short": "Azerbaijan",
+      "uppercase": "AZERBAIJAN"
+    },
+    "numeric": "031",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "BS",
+    "alpha3": "BHS",
+    "independent": "Yes",
+    "name": {
+      "short": "Bahamas",
+      "uppercase": "BAHAMAS"
+    },
+    "numeric": "044",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "BH",
+    "alpha3": "BHR",
+    "independent": "Yes",
+    "name": {
+      "short": "Bahrain",
+      "uppercase": "BAHRAIN"
+    },
+    "numeric": "048",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "BD",
+    "alpha3": "BGD",
+    "independent": "Yes",
+    "name": {
+      "short": "Bangladesh",
+      "uppercase": "BANGLADESH"
+    },
+    "numeric": "050",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "BB",
+    "alpha3": "BRB",
+    "independent": "Yes",
+    "name": {
+      "short": "Barbados",
+      "uppercase": "BARBADOS"
+    },
+    "numeric": "052",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "BY",
+    "alpha3": "BLR",
+    "independent": "Yes",
+    "name": {
+      "short": "Belarus",
+      "uppercase": "BELARUS"
+    },
+    "numeric": "112",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "BE",
+    "alpha3": "BEL",
+    "independent": "Yes",
+    "name": {
+      "short": "Belgium",
+      "uppercase": "BELGIUM"
+    },
+    "numeric": "056",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "BZ",
+    "alpha3": "BLZ",
+    "independent": "Yes",
+    "name": {
+      "short": "Belize",
+      "uppercase": "BELIZE"
+    },
+    "numeric": "084",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "BJ",
+    "alpha3": "BEN",
+    "independent": "Yes",
+    "name": {
+      "short": "Benin",
+      "uppercase": "BENIN"
+    },
+    "numeric": "204",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "BM",
+    "alpha3": "BMU",
+    "independent": "Territory of GB",
+    "name": {
+      "short": "Bermuda",
+      "uppercase": "BERMUDA"
+    },
+    "numeric": "060",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "BT",
+    "alpha3": "BTN",
+    "independent": "Yes",
+    "name": {
+      "short": "Bhutan",
+      "uppercase": "BHUTAN"
+    },
+    "numeric": "064",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "BO",
+    "alpha3": "BOL",
+    "independent": "Yes",
+    "name": {
+      "short": "Bolivia, Plurinational State of",
+      "uppercase": "BOLIVIA, PLURINATIONAL STATE OF"
+    },
+    "numeric": "068",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "BQ",
+    "alpha3": "BES",
+    "independent": "Part of NL",
+    "name": {
+      "short": "Bonaire, Sint Eustatius and Saba",
+      "uppercase": "BONAIRE, SINT EUSTATIUS AND SABA"
+    },
+    "numeric": "535",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "BA",
+    "alpha3": "BIH",
+    "independent": "Yes",
+    "name": {
+      "short": "Bosnia and Herzegovina",
+      "uppercase": "BOSNIA AND HERZEGOVINA"
+    },
+    "numeric": "070",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "BW",
+    "alpha3": "BWA",
+    "independent": "Yes",
+    "name": {
+      "short": "Botswana",
+      "uppercase": "BOTSWANA"
+    },
+    "numeric": "072",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "BV",
+    "alpha3": "BVT",
+    "independent": "Territory of NO",
+    "name": {
+      "short": "Bouvet Island",
+      "uppercase": "BOUVET ISLAND"
+    },
+    "numeric": "074",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "BR",
+    "alpha3": "BRA",
+    "independent": "Yes",
+    "name": {
+      "short": "Brazil",
+      "uppercase": "BRAZIL"
+    },
+    "numeric": "076",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "IO",
+    "alpha3": "IOT",
+    "independent": "Territory of GB",
+    "name": {
+      "short": "British Indian Ocean Territory",
+      "uppercase": "BRITISH INDIAN OCEAN TERRITORY"
+    },
+    "numeric": "086",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "BN",
+    "alpha3": "BRN",
+    "independent": "Yes",
+    "name": {
+      "short": "Brunei Darussalam",
+      "uppercase": "BRUNEI DARUSSALAM"
+    },
+    "numeric": "096",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "BG",
+    "alpha3": "BGR",
+    "independent": "Yes",
+    "name": {
+      "short": "Bulgaria",
+      "uppercase": "BULGARIA"
+    },
+    "numeric": "100",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "BF",
+    "alpha3": "BFA",
+    "independent": "Yes",
+    "name": {
+      "short": "Burkina Faso",
+      "uppercase": "BURKINA FASO"
+    },
+    "numeric": "854",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "BU",
+    "alpha3": "BUR",
+    "name": {
+      "short": "Burma",
+      "uppercase": "BURMA"
+    },
+    "numeric": "104",
+    "status": "transitionally-reserved"
+  },
+  {
+    "alpha2": "BI",
+    "alpha3": "BDI",
+    "independent": "Yes",
+    "name": {
+      "short": "Burundi",
+      "uppercase": "BURUNDI"
+    },
+    "numeric": "108",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "KH",
+    "alpha3": "KHM",
+    "independent": "Yes",
+    "name": {
+      "short": "Cambodia",
+      "uppercase": "CAMBODIA"
+    },
+    "numeric": "116",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "CM",
+    "alpha3": "CMR",
+    "independent": "Yes",
+    "name": {
+      "short": "Cameroon",
+      "uppercase": "CAMEROON"
+    },
+    "numeric": "120",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "CA",
+    "alpha3": "CAN",
+    "independent": "Yes",
+    "name": {
+      "short": "Canada",
+      "uppercase": "CANADA"
+    },
+    "numeric": "124",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "CV",
+    "alpha3": "CPV",
+    "independent": "Yes",
+    "name": {
+      "short": "Cape Verde",
+      "uppercase": "CABO VERDE"
+    },
+    "numeric": "132",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "KY",
+    "alpha3": "CYM",
+    "independent": "Territory of GB",
+    "name": {
+      "short": "Cayman Islands",
+      "uppercase": "CAYMAN ISLANDS"
+    },
+    "numeric": "136",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "CF",
+    "alpha3": "CAF",
+    "independent": "Yes",
+    "name": {
+      "short": "Central African Republic",
+      "uppercase": "CENTRAL AFRICAN REPUBLIC"
+    },
+    "numeric": "140",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "TD",
+    "alpha3": "TCD",
+    "independent": "Yes",
+    "name": {
+      "short": "Chad",
+      "uppercase": "CHAD"
+    },
+    "numeric": "148",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "CL",
+    "alpha3": "CHL",
+    "independent": "Yes",
+    "name": {
+      "short": "Chile",
+      "uppercase": "CHILE"
+    },
+    "numeric": "152",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "CN",
+    "alpha3": "CHN",
+    "independent": "Yes",
+    "name": {
+      "short": "China",
+      "uppercase": "CHINA"
+    },
+    "numeric": "156",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "CX",
+    "alpha3": "CXR",
+    "independent": "Territory of AU",
+    "name": {
+      "short": "Christmas Island",
+      "uppercase": "CHRISTMAS ISLAND"
+    },
+    "numeric": "162",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "CC",
+    "alpha3": "CCK",
+    "independent": "Territory of AU",
+    "name": {
+      "short": "Cocos (Keeling) Islands",
+      "uppercase": "COCOS (KEELING) ISLANDS"
+    },
+    "numeric": "166",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "CO",
+    "alpha3": "COL",
+    "independent": "Yes",
+    "name": {
+      "short": "Colombia",
+      "uppercase": "COLOMBIA"
+    },
+    "numeric": "170",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "KM",
+    "alpha3": "COM",
+    "independent": "Yes",
+    "name": {
+      "short": "Comoros",
+      "uppercase": "COMOROS"
+    },
+    "numeric": "174",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "CG",
+    "alpha3": "COG",
+    "independent": "Yes",
+    "name": {
+      "short": "Congo",
+      "uppercase": "CONGO"
+    },
+    "numeric": "178",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "CD",
+    "alpha3": "COD",
+    "independent": "Yes",
+    "name": {
+      "short": "Congo, the Democratic Republic of the",
+      "uppercase": "CONGO, DEMOCRATIC REPUBLIC OF THE"
+    },
+    "numeric": "180",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "CK",
+    "alpha3": "COK",
+    "independent": "Associated with NZ",
+    "name": {
+      "short": "Cook Islands",
+      "uppercase": "COOK ISLANDS"
+    },
+    "numeric": "184",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "CR",
+    "alpha3": "CRI",
+    "independent": "Yes",
+    "name": {
+      "short": "Costa Rica",
+      "uppercase": "COSTA RICA"
+    },
+    "numeric": "188",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "HR",
+    "alpha3": "HRV",
+    "independent": "Yes",
+    "name": {
+      "short": "Croatia",
+      "uppercase": "CROATIA"
+    },
+    "numeric": "191",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "CU",
+    "alpha3": "CUB",
+    "independent": "Yes",
+    "name": {
+      "short": "Cuba",
+      "uppercase": "CUBA"
+    },
+    "numeric": "192",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "CW",
+    "alpha3": "CUW",
+    "independent": "Part of NL",
+    "name": {
+      "short": "Curaçao",
+      "uppercase": "CURAÇAO"
+    },
+    "numeric": "531",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "CY",
+    "alpha3": "CYP",
+    "independent": "Yes",
+    "name": {
+      "short": "Cyprus",
+      "uppercase": "CYPRUS"
+    },
+    "numeric": "196",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "CZ",
+    "alpha3": "CZE",
+    "independent": "Yes",
+    "name": {
+      "short": "Czech Republic",
+      "uppercase": "CZECH REPUBLIC"
+    },
+    "numeric": "203",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "CI",
+    "alpha3": "CIV",
+    "independent": "Yes",
+    "name": {
+      "short": "Côte d'Ivoire",
+      "uppercase": "CÔTE D'IVOIRE"
+    },
+    "numeric": "384",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "DK",
+    "alpha3": "DNK",
+    "independent": "Yes",
+    "name": {
+      "short": "Denmark",
+      "uppercase": "DENMARK"
+    },
+    "numeric": "208",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "DJ",
+    "alpha3": "DJI",
+    "independent": "Yes",
+    "name": {
+      "short": "Djibouti",
+      "uppercase": "DJIBOUTI"
+    },
+    "numeric": "262",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "DM",
+    "alpha3": "DMA",
+    "independent": "Yes",
+    "name": {
+      "short": "Dominica",
+      "uppercase": "DOMINICA"
+    },
+    "numeric": "212",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "DO",
+    "alpha3": "DOM",
+    "independent": "Yes",
+    "name": {
+      "short": "Dominican Republic",
+      "uppercase": "DOMINICAN REPUBLIC"
+    },
+    "numeric": "214",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "TP",
+    "alpha3": "TMP",
+    "name": {
+      "short": "East Timor",
+      "uppercase": "EAST TIMOR"
+    },
+    "numeric": "626",
+    "status": "transitionally-reserved"
+  },
+  {
+    "alpha2": "EC",
+    "alpha3": "ECU",
+    "independent": "Yes",
+    "name": {
+      "short": "Ecuador",
+      "uppercase": "ECUADOR"
+    },
+    "numeric": "218",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "EG",
+    "alpha3": "EGY",
+    "independent": "Yes",
+    "name": {
+      "short": "Egypt",
+      "uppercase": "EGYPT"
+    },
+    "numeric": "818",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "SV",
+    "alpha3": "SLV",
+    "independent": "Yes",
+    "name": {
+      "short": "El Salvador",
+      "uppercase": "EL SALVADOR"
+    },
+    "numeric": "222",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "GQ",
+    "alpha3": "GNQ",
+    "independent": "Yes",
+    "name": {
+      "short": "Equatorial Guinea",
+      "uppercase": "EQUATORIAL GUINEA"
+    },
+    "numeric": "226",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "ER",
+    "alpha3": "ERI",
+    "independent": "Yes",
+    "name": {
+      "short": "Eritrea",
+      "uppercase": "ERITREA"
+    },
+    "numeric": "232",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "EE",
+    "alpha3": "EST",
+    "independent": "Yes",
+    "name": {
+      "short": "Estonia",
+      "uppercase": "ESTONIA"
+    },
+    "numeric": "233",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "ET",
+    "alpha3": "ETH",
+    "independent": "Yes",
+    "name": {
+      "short": "Ethiopia",
+      "uppercase": "ETHIOPIA"
+    },
+    "numeric": "231",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "FK",
+    "alpha3": "FLK",
+    "independent": "Territory of GB",
+    "name": {
+      "short": "Falkland Islands (Malvinas)",
+      "uppercase": "FALKLAND ISLANDS (MALVINAS)"
+    },
+    "numeric": "238",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "FO",
+    "alpha3": "FRO",
+    "independent": "Part of DK",
+    "name": {
+      "short": "Faroe Islands",
+      "uppercase": "FAROE ISLANDS"
+    },
+    "numeric": "234",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "FJ",
+    "alpha3": "FJI",
+    "independent": "Yes",
+    "name": {
+      "short": "Fiji",
+      "uppercase": "FIJI"
+    },
+    "numeric": "242",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "FI",
+    "alpha3": "FIN",
+    "independent": "Yes",
+    "name": {
+      "short": "Finland",
+      "uppercase": "FINLAND"
+    },
+    "numeric": "246",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "FR",
+    "alpha3": "FRA",
+    "independent": "Yes",
+    "name": {
+      "short": "France",
+      "uppercase": "FRANCE"
+    },
+    "numeric": "250",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "GF",
+    "alpha3": "GUF",
+    "independent": "Part of FR",
+    "name": {
+      "short": "French Guiana",
+      "uppercase": "FRENCH GUIANA"
+    },
+    "numeric": "254",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "PF",
+    "alpha3": "PYF",
+    "independent": "Territory of FR",
+    "name": {
+      "short": "French Polynesia",
+      "uppercase": "FRENCH POLYNESIA"
+    },
+    "numeric": "258",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "TF",
+    "alpha3": "ATF",
+    "independent": "Territory of FR",
+    "name": {
+      "short": "French Southern Territories",
+      "uppercase": "FRENCH SOUTHERN TERRITORIES"
+    },
+    "numeric": "260",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "GA",
+    "alpha3": "GAB",
+    "independent": "Yes",
+    "name": {
+      "short": "Gabon",
+      "uppercase": "GABON"
+    },
+    "numeric": "266",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "GM",
+    "alpha3": "GMB",
+    "independent": "Yes",
+    "name": {
+      "short": "Gambia",
+      "uppercase": "GAMBIA"
+    },
+    "numeric": "270",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "GE",
+    "alpha3": "GEO",
+    "independent": "Yes",
+    "name": {
+      "short": "Georgia",
+      "uppercase": "GEORGIA"
+    },
+    "numeric": "268",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "DE",
+    "alpha3": "DEU",
+    "independent": "Yes",
+    "name": {
+      "short": "Germany",
+      "uppercase": "GERMANY"
+    },
+    "numeric": "276",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "GH",
+    "alpha3": "GHA",
+    "independent": "Yes",
+    "name": {
+      "short": "Ghana",
+      "uppercase": "GHANA"
+    },
+    "numeric": "288",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "GI",
+    "alpha3": "GIB",
+    "independent": "Territory of GB",
+    "name": {
+      "short": "Gibraltar",
+      "uppercase": "GIBRALTAR"
+    },
+    "numeric": "292",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "GR",
+    "alpha3": "GRC",
+    "independent": "Yes",
+    "name": {
+      "short": "Greece",
+      "uppercase": "GREECE"
+    },
+    "numeric": "300",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "GL",
+    "alpha3": "GRL",
+    "independent": "Part of DK",
+    "name": {
+      "short": "Greenland",
+      "uppercase": "GREENLAND"
+    },
+    "numeric": "304",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "GD",
+    "alpha3": "GRD",
+    "independent": "Yes",
+    "name": {
+      "short": "Grenada",
+      "uppercase": "GRENADA"
+    },
+    "numeric": "308",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "GP",
+    "alpha3": "GLP",
+    "independent": "Part of FR",
+    "name": {
+      "short": "Guadeloupe",
+      "uppercase": "GUADELOUPE"
+    },
+    "numeric": "312",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "GU",
+    "alpha3": "GUM",
+    "independent": "Territory of US",
+    "name": {
+      "short": "Guam",
+      "uppercase": "GUAM"
+    },
+    "numeric": "316",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "GT",
+    "alpha3": "GTM",
+    "independent": "Yes",
+    "name": {
+      "short": "Guatemala",
+      "uppercase": "GUATEMALA"
+    },
+    "numeric": "320",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "GG",
+    "alpha3": "GGY",
+    "independent": "Crown dependency of GB",
+    "name": {
+      "short": "Guernsey",
+      "uppercase": "GUERNSEY"
+    },
+    "numeric": "831",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "GN",
+    "alpha3": "GIN",
+    "independent": "Yes",
+    "name": {
+      "short": "Guinea",
+      "uppercase": "GUINEA"
+    },
+    "numeric": "324",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "GW",
+    "alpha3": "GNB",
+    "independent": "Yes",
+    "name": {
+      "short": "Guinea-Bissau",
+      "uppercase": "GUINEA-BISSAU"
+    },
+    "numeric": "624",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "GY",
+    "alpha3": "GUY",
+    "independent": "Yes",
+    "name": {
+      "short": "Guyana",
+      "uppercase": "GUYANA"
+    },
+    "numeric": "328",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "HT",
+    "alpha3": "HTI",
+    "independent": "Yes",
+    "name": {
+      "short": "Haiti",
+      "uppercase": "HAITI"
+    },
+    "numeric": "332",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "HM",
+    "alpha3": "HMD",
+    "independent": "Territory of AU",
+    "name": {
+      "short": "Heard Island and Mcdonald Islands",
+      "uppercase": "HEARD ISLAND AND MCDONALD ISLANDS"
+    },
+    "numeric": "334",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "VA",
+    "alpha3": "VAT",
+    "independent": "Yes",
+    "name": {
+      "short": "Holy See (Vatican City State)",
+      "uppercase": "HOLY SEE (VATICAN CITY STATE)"
+    },
+    "numeric": "336",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "HN",
+    "alpha3": "HND",
+    "independent": "Yes",
+    "name": {
+      "short": "Honduras",
+      "uppercase": "HONDURAS"
+    },
+    "numeric": "340",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "HK",
+    "alpha3": "HKG",
+    "independent": "Part of CN",
+    "name": {
+      "short": "Hong Kong",
+      "uppercase": "HONG KONG"
+    },
+    "numeric": "344",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "HU",
+    "alpha3": "HUN",
+    "independent": "Yes",
+    "name": {
+      "short": "Hungary",
+      "uppercase": "HUNGARY"
+    },
+    "numeric": "348",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "IS",
+    "alpha3": "ISL",
+    "independent": "Yes",
+    "name": {
+      "short": "Iceland",
+      "uppercase": "ICELAND"
+    },
+    "numeric": "352",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "IN",
+    "alpha3": "IND",
+    "independent": "Yes",
+    "name": {
+      "short": "India",
+      "uppercase": "INDIA"
+    },
+    "numeric": "356",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "ID",
+    "alpha3": "IDN",
+    "independent": "Yes",
+    "name": {
+      "short": "Indonesia",
+      "uppercase": "INDONESIA"
+    },
+    "numeric": "360",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "IR",
+    "alpha3": "IRN",
+    "independent": "Yes",
+    "name": {
+      "short": "Iran, Islamic Republic of",
+      "uppercase": "IRAN, ISLAMIC REPUBLIC OF"
+    },
+    "numeric": "364",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "IQ",
+    "alpha3": "IRQ",
+    "independent": "Yes",
+    "name": {
+      "short": "Iraq",
+      "uppercase": "IRAQ"
+    },
+    "numeric": "368",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "IE",
+    "alpha3": "IRL",
+    "independent": "Yes",
+    "name": {
+      "short": "Ireland",
+      "uppercase": "IRELAND"
+    },
+    "numeric": "372",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "IM",
+    "alpha3": "IMN",
+    "independent": "Crown dependency of GB",
+    "name": {
+      "short": "Isle of Man",
+      "uppercase": "ISLE OF MAN"
+    },
+    "numeric": "833",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "IL",
+    "alpha3": "ISR",
+    "independent": "Yes",
+    "name": {
+      "short": "Israel",
+      "uppercase": "ISRAEL"
+    },
+    "numeric": "376",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "IT",
+    "alpha3": "ITA",
+    "independent": "Yes",
+    "name": {
+      "short": "Italy",
+      "uppercase": "ITALY"
+    },
+    "numeric": "380",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "JM",
+    "alpha3": "JAM",
+    "independent": "Yes",
+    "name": {
+      "short": "Jamaica",
+      "uppercase": "JAMAICA"
+    },
+    "numeric": "388",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "JP",
+    "alpha3": "JPN",
+    "independent": "Yes",
+    "name": {
+      "short": "Japan",
+      "uppercase": "JAPAN"
+    },
+    "numeric": "392",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "JE",
+    "alpha3": "JEY",
+    "independent": "Crown dependency of GB",
+    "name": {
+      "short": "Jersey",
+      "uppercase": "JERSEY"
+    },
+    "numeric": "832",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "JO",
+    "alpha3": "JOR",
+    "independent": "Yes",
+    "name": {
+      "short": "Jordan",
+      "uppercase": "JORDAN"
+    },
+    "numeric": "400",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "KZ",
+    "alpha3": "KAZ",
+    "independent": "Yes",
+    "name": {
+      "short": "Kazakhstan",
+      "uppercase": "KAZAKHSTAN"
+    },
+    "numeric": "398",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "KE",
+    "alpha3": "KEN",
+    "independent": "Yes",
+    "name": {
+      "short": "Kenya",
+      "uppercase": "KENYA"
+    },
+    "numeric": "404",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "KI",
+    "alpha3": "KIR",
+    "independent": "Yes",
+    "name": {
+      "short": "Kiribati",
+      "uppercase": "KIRIBATI"
+    },
+    "numeric": "296",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "KP",
+    "alpha3": "PRK",
+    "independent": "Yes",
+    "name": {
+      "short": "Korea, Democratic People's Republic of",
+      "uppercase": "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF"
+    },
+    "numeric": "408",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "KR",
+    "alpha3": "KOR",
+    "independent": "Yes",
+    "name": {
+      "short": "Korea, Republic of",
+      "uppercase": "KOREA, REPUBLIC OF"
+    },
+    "numeric": "410",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "XK",
+    "alpha3": "XKX",
+    "name": {
+      "short": "Kosovo",
+      "uppercase": "KOSOVO"
+    },
+    "status": "user-assigned"
+  },
+  {
+    "alpha2": "KW",
+    "alpha3": "KWT",
+    "independent": "Yes",
+    "name": {
+      "short": "Kuwait",
+      "uppercase": "KUWAIT"
+    },
+    "numeric": "414",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "KG",
+    "alpha3": "KGZ",
+    "independent": "Yes",
+    "name": {
+      "short": "Kyrgyzstan",
+      "uppercase": "KYRGYZSTAN"
+    },
+    "numeric": "417",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "LA",
+    "alpha3": "LAO",
+    "independent": "Yes",
+    "name": {
+      "short": "Lao People's Democratic Republic",
+      "uppercase": "LAO PEOPLE'S DEMOCRATIC REPUBLIC"
+    },
+    "numeric": "418",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "LV",
+    "alpha3": "LVA",
+    "independent": "Yes",
+    "name": {
+      "short": "Latvia",
+      "uppercase": "LATVIA"
+    },
+    "numeric": "428",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "LB",
+    "alpha3": "LBN",
+    "independent": "Yes",
+    "name": {
+      "short": "Lebanon",
+      "uppercase": "LEBANON"
+    },
+    "numeric": "422",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "LS",
+    "alpha3": "LSO",
+    "independent": "Yes",
+    "name": {
+      "short": "Lesotho",
+      "uppercase": "LESOTHO"
+    },
+    "numeric": "426",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "LR",
+    "alpha3": "LBR",
+    "independent": "Yes",
+    "name": {
+      "short": "Liberia",
+      "uppercase": "LIBERIA"
+    },
+    "numeric": "430",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "LY",
+    "alpha3": "LBY",
+    "independent": "Yes",
+    "name": {
+      "short": "Libya",
+      "uppercase": "LIBYA"
+    },
+    "numeric": "434",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "LI",
+    "alpha3": "LIE",
+    "independent": "Yes",
+    "name": {
+      "short": "Liechtenstein",
+      "uppercase": "LIECHTENSTEIN"
+    },
+    "numeric": "438",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "LT",
+    "alpha3": "LTU",
+    "independent": "Yes",
+    "name": {
+      "short": "Lithuania",
+      "uppercase": "LITHUANIA"
+    },
+    "numeric": "440",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "LU",
+    "alpha3": "LUX",
+    "independent": "Yes",
+    "name": {
+      "short": "Luxembourg",
+      "uppercase": "LUXEMBOURG"
+    },
+    "numeric": "442",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "MO",
+    "alpha3": "MAC",
+    "independent": "Part of CN",
+    "name": {
+      "short": "Macao",
+      "uppercase": "MACAO"
+    },
+    "numeric": "446",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "MK",
+    "alpha3": "MKD",
+    "independent": "Yes",
+    "name": {
+      "short": "Macedonia, the Former Yugoslav Republic of",
+      "uppercase": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF"
+    },
+    "numeric": "807",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "MG",
+    "alpha3": "MDG",
+    "independent": "Yes",
+    "name": {
+      "short": "Madagascar",
+      "uppercase": "MADAGASCAR"
+    },
+    "numeric": "450",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "MW",
+    "alpha3": "MWI",
+    "independent": "Yes",
+    "name": {
+      "short": "Malawi",
+      "uppercase": "MALAWI"
+    },
+    "numeric": "454",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "MY",
+    "alpha3": "MYS",
+    "independent": "Yes",
+    "name": {
+      "short": "Malaysia",
+      "uppercase": "MALAYSIA"
+    },
+    "numeric": "458",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "MV",
+    "alpha3": "MDV",
+    "independent": "Yes",
+    "name": {
+      "short": "Maldives",
+      "uppercase": "MALDIVES"
+    },
+    "numeric": "462",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "ML",
+    "alpha3": "MLI",
+    "independent": "Yes",
+    "name": {
+      "short": "Mali",
+      "uppercase": "MALI"
+    },
+    "numeric": "466",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "MT",
+    "alpha3": "MLT",
+    "independent": "Yes",
+    "name": {
+      "short": "Malta",
+      "uppercase": "MALTA"
+    },
+    "numeric": "470",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "MH",
+    "alpha3": "MHL",
+    "independent": "Yes",
+    "name": {
+      "short": "Marshall Islands",
+      "uppercase": "MARSHALL ISLANDS"
+    },
+    "numeric": "584",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "MQ",
+    "alpha3": "MTQ",
+    "independent": "Part of FR",
+    "name": {
+      "short": "Martinique",
+      "uppercase": "MARTINIQUE"
+    },
+    "numeric": "474",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "MR",
+    "alpha3": "MRT",
+    "independent": "Yes",
+    "name": {
+      "short": "Mauritania",
+      "uppercase": "MAURITANIA"
+    },
+    "numeric": "478",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "MU",
+    "alpha3": "MUS",
+    "independent": "Yes",
+    "name": {
+      "short": "Mauritius",
+      "uppercase": "MAURITIUS"
+    },
+    "numeric": "480",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "YT",
+    "alpha3": "MYT",
+    "independent": "Part of FR",
+    "name": {
+      "short": "Mayotte",
+      "uppercase": "MAYOTTE"
+    },
+    "numeric": "175",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "MX",
+    "alpha3": "MEX",
+    "independent": "Yes",
+    "name": {
+      "short": "Mexico",
+      "uppercase": "MEXICO"
+    },
+    "numeric": "484",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "FM",
+    "alpha3": "FSM",
+    "independent": "Yes",
+    "name": {
+      "short": "Micronesia, Federated States of",
+      "uppercase": "MICRONESIA, FEDERATED STATES OF"
+    },
+    "numeric": "583",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "MD",
+    "alpha3": "MDA",
+    "independent": "Yes",
+    "name": {
+      "short": "Moldova, Republic of",
+      "uppercase": "MOLDOVA, REPUBLIC OF"
+    },
+    "numeric": "498",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "MC",
+    "alpha3": "MCO",
+    "independent": "Yes",
+    "name": {
+      "short": "Monaco",
+      "uppercase": "MONACO"
+    },
+    "numeric": "492",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "MN",
+    "alpha3": "MNG",
+    "independent": "Yes",
+    "name": {
+      "short": "Mongolia",
+      "uppercase": "MONGOLIA"
+    },
+    "numeric": "496",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "ME",
+    "alpha3": "MNE",
+    "independent": "Yes",
+    "name": {
+      "short": "Montenegro",
+      "uppercase": "MONTENEGRO"
+    },
+    "numeric": "499",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "MS",
+    "alpha3": "MSR",
+    "independent": "Territory of GB",
+    "name": {
+      "short": "Montserrat",
+      "uppercase": "MONTSERRAT"
+    },
+    "numeric": "500",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "MA",
+    "alpha3": "MAR",
+    "independent": "Yes",
+    "name": {
+      "short": "Morocco",
+      "uppercase": "MOROCCO"
+    },
+    "numeric": "504",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "MZ",
+    "alpha3": "MOZ",
+    "independent": "Yes",
+    "name": {
+      "short": "Mozambique",
+      "uppercase": "MOZAMBIQUE"
+    },
+    "numeric": "508",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "MM",
+    "alpha3": "MMR",
+    "independent": "Yes",
+    "name": {
+      "short": "Myanmar",
+      "uppercase": "MYANMAR"
+    },
+    "numeric": "104",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "NA",
+    "alpha3": "NAM",
+    "independent": "Yes",
+    "name": {
+      "short": "Namibia",
+      "uppercase": "NAMIBIA"
+    },
+    "numeric": "516",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "NR",
+    "alpha3": "NRU",
+    "independent": "Yes",
+    "name": {
+      "short": "Nauru",
+      "uppercase": "NAURU"
+    },
+    "numeric": "520",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "NP",
+    "alpha3": "NPL",
+    "independent": "Yes",
+    "name": {
+      "short": "Nepal",
+      "uppercase": "NEPAL"
+    },
+    "numeric": "524",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "AN",
+    "alpha3": "ANT",
+    "independent": "Yes",
+    "name": {
+      "short": "Netherlands Antilles",
+      "uppercase": "NETHERLANDS ANTILLES"
+    },
+    "numeric": "530",
+    "status": "transitionally-reserved"
+  },
+  {
+    "alpha2": "NL",
+    "alpha3": "NLD",
+    "independent": "Yes",
+    "name": {
+      "short": "Netherlands",
+      "uppercase": "NETHERLANDS"
+    },
+    "numeric": "528",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "NT",
+    "alpha3": "NTZ",
+    "name": {
+      "short": "Neutral Zone",
+      "uppercase": "NEUTRAL ZONE"
+    },
+    "numeric": "536",
+    "status": "transitionally-reserved"
+  },
+  {
+    "alpha2": "NC",
+    "alpha3": "NCL",
+    "independent": "Territory of FR",
+    "name": {
+      "short": "New Caledonia",
+      "uppercase": "NEW CALEDONIA"
+    },
+    "numeric": "540",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "NZ",
+    "alpha3": "NZL",
+    "independent": "Yes",
+    "name": {
+      "short": "New Zealand",
+      "uppercase": "NEW ZEALAND"
+    },
+    "numeric": "554",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "NI",
+    "alpha3": "NIC",
+    "independent": "Yes",
+    "name": {
+      "short": "Nicaragua",
+      "uppercase": "NICARAGUA"
+    },
+    "numeric": "558",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "NE",
+    "alpha3": "NER",
+    "independent": "Yes",
+    "name": {
+      "short": "Niger",
+      "uppercase": "NIGER"
+    },
+    "numeric": "562",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "NG",
+    "alpha3": "NGA",
+    "independent": "Yes",
+    "name": {
+      "short": "Nigeria",
+      "uppercase": "NIGERIA"
+    },
+    "numeric": "566",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "NU",
+    "alpha3": "NIU",
+    "independent": "Associated with NZ",
+    "name": {
+      "short": "Niue",
+      "uppercase": "NIUE"
+    },
+    "numeric": "570",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "NF",
+    "alpha3": "NFK",
+    "independent": "Territory of AU",
+    "name": {
+      "short": "Norfolk Island",
+      "uppercase": "NORFOLK ISLAND"
+    },
+    "numeric": "574",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "MP",
+    "alpha3": "MNP",
+    "independent": "Commonwealth of US",
+    "name": {
+      "short": "Northern Mariana Islands",
+      "uppercase": "NORTHERN MARIANA ISLANDS"
+    },
+    "numeric": "580",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "NO",
+    "alpha3": "NOR",
+    "independent": "Yes",
+    "name": {
+      "short": "Norway",
+      "uppercase": "NORWAY"
+    },
+    "numeric": "578",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "OM",
+    "alpha3": "OMN",
+    "independent": "Yes",
+    "name": {
+      "short": "Oman",
+      "uppercase": "OMAN"
+    },
+    "numeric": "512",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "PK",
+    "alpha3": "PAK",
+    "independent": "Yes",
+    "name": {
+      "short": "Pakistan",
+      "uppercase": "PAKISTAN"
+    },
+    "numeric": "586",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "PW",
+    "alpha3": "PLW",
+    "independent": "Yes",
+    "name": {
+      "short": "Palau",
+      "uppercase": "PALAU"
+    },
+    "numeric": "585",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "PS",
+    "alpha3": "PSE",
+    "independent": "In contention",
+    "name": {
+      "short": "Palestine, State of",
+      "uppercase": "PALESTINE, STATE OF"
+    },
+    "numeric": "275",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "PA",
+    "alpha3": "PAN",
+    "independent": "Yes",
+    "name": {
+      "short": "Panama",
+      "uppercase": "PANAMA"
+    },
+    "numeric": "591",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "PG",
+    "alpha3": "PNG",
+    "independent": "Yes",
+    "name": {
+      "short": "Papua New Guinea",
+      "uppercase": "PAPUA NEW GUINEA"
+    },
+    "numeric": "598",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "PY",
+    "alpha3": "PRY",
+    "independent": "Yes",
+    "name": {
+      "short": "Paraguay",
+      "uppercase": "PARAGUAY"
+    },
+    "numeric": "600",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "PE",
+    "alpha3": "PER",
+    "independent": "Yes",
+    "name": {
+      "short": "Peru",
+      "uppercase": "PERU"
+    },
+    "numeric": "604",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "PH",
+    "alpha3": "PHL",
+    "independent": "Yes",
+    "name": {
+      "short": "Philippines",
+      "uppercase": "PHILIPPINES"
+    },
+    "numeric": "608",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "PN",
+    "alpha3": "PCN",
+    "independent": "Territory of GB",
+    "name": {
+      "short": "Pitcairn",
+      "uppercase": "PITCAIRN"
+    },
+    "numeric": "612",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "PL",
+    "alpha3": "POL",
+    "independent": "Yes",
+    "name": {
+      "short": "Poland",
+      "uppercase": "POLAND"
+    },
+    "numeric": "616",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "PT",
+    "alpha3": "PRT",
+    "independent": "Yes",
+    "name": {
+      "short": "Portugal",
+      "uppercase": "PORTUGAL"
+    },
+    "numeric": "620",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "PR",
+    "alpha3": "PRI",
+    "independent": "Commonwealth of US",
+    "name": {
+      "short": "Puerto Rico",
+      "uppercase": "PUERTO RICO"
+    },
+    "numeric": "630",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "QA",
+    "alpha3": "QAT",
+    "independent": "Yes",
+    "name": {
+      "short": "Qatar",
+      "uppercase": "QATAR"
+    },
+    "numeric": "634",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "RO",
+    "alpha3": "ROU",
+    "independent": "Yes",
+    "name": {
+      "short": "Romania",
+      "uppercase": "ROMANIA"
+    },
+    "numeric": "642",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "RU",
+    "alpha3": "RUS",
+    "independent": "Yes",
+    "name": {
+      "short": "Russian Federation",
+      "uppercase": "RUSSIAN FEDERATION"
+    },
+    "numeric": "643",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "RW",
+    "alpha3": "RWA",
+    "independent": "Yes",
+    "name": {
+      "short": "Rwanda",
+      "uppercase": "RWANDA"
+    },
+    "numeric": "646",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "RE",
+    "alpha3": "REU",
+    "independent": "Part of FR",
+    "name": {
+      "short": "Réunion",
+      "uppercase": "RÉUNION"
+    },
+    "numeric": "638",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "BL",
+    "alpha3": "BLM",
+    "independent": "Part of FR",
+    "name": {
+      "short": "Saint Barthélemy",
+      "uppercase": "SAINT BARTHÉLEMY"
+    },
+    "numeric": "652",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "SH",
+    "alpha3": "SHN",
+    "independent": "Territory of GB",
+    "name": {
+      "short": "Saint Helena, Ascension and Tristan da Cunha",
+      "uppercase": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA"
+    },
+    "numeric": "654",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "KN",
+    "alpha3": "KNA",
+    "independent": "Yes",
+    "name": {
+      "short": "Saint Kitts and Nevis",
+      "uppercase": "SAINT KITTS AND NEVIS"
+    },
+    "numeric": "659",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "LC",
+    "alpha3": "LCA",
+    "independent": "Yes",
+    "name": {
+      "short": "Saint Lucia",
+      "uppercase": "SAINT LUCIA"
+    },
+    "numeric": "662",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "MF",
+    "alpha3": "MAF",
+    "independent": "Part of FR",
+    "name": {
+      "short": "Saint Martin (French part)",
+      "uppercase": "SAINT MARTIN (FRENCH PART)"
+    },
+    "numeric": "663",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "PM",
+    "alpha3": "SPM",
+    "independent": "Part of FR",
+    "name": {
+      "short": "Saint Pierre and Miquelon",
+      "uppercase": "SAINT PIERRE AND MIQUELON"
+    },
+    "numeric": "666",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "VC",
+    "alpha3": "VCT",
+    "independent": "Yes",
+    "name": {
+      "short": "Saint Vincent and the Grenadines",
+      "uppercase": "SAINT VINCENT AND THE GRENADINES"
+    },
+    "numeric": "670",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "WS",
+    "alpha3": "WSM",
+    "independent": "Yes",
+    "name": {
+      "short": "Samoa",
+      "uppercase": "SAMOA"
+    },
+    "numeric": "882",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "SM",
+    "alpha3": "SMR",
+    "independent": "Yes",
+    "name": {
+      "short": "San Marino",
+      "uppercase": "SAN MARINO"
+    },
+    "numeric": "674",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "ST",
+    "alpha3": "STP",
+    "independent": "Yes",
+    "name": {
+      "short": "Sao Tome and Principe",
+      "uppercase": "SAO TOME AND PRINCIPE"
+    },
+    "numeric": "678",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "SA",
+    "alpha3": "SAU",
+    "independent": "Yes",
+    "name": {
+      "short": "Saudi Arabia",
+      "uppercase": "SAUDI ARABIA"
+    },
+    "numeric": "682",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "SN",
+    "alpha3": "SEN",
+    "independent": "Yes",
+    "name": {
+      "short": "Senegal",
+      "uppercase": "SENEGAL"
+    },
+    "numeric": "686",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "CS",
+    "alpha3": "SCG",
+    "name": {
+      "short": "Serbia and Montenegro",
+      "uppercase": "SERBIA AND MONTENEGRO"
+    },
+    "numeric": "891",
+    "status": "transitionally-reserved"
+  },
+  {
+    "alpha2": "RS",
+    "alpha3": "SRB",
+    "independent": "Yes",
+    "name": {
+      "short": "Serbia",
+      "uppercase": "SERBIA"
+    },
+    "numeric": "688",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "SC",
+    "alpha3": "SYC",
+    "independent": "Yes",
+    "name": {
+      "short": "Seychelles",
+      "uppercase": "SEYCHELLES"
+    },
+    "numeric": "690",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "SL",
+    "alpha3": "SLE",
+    "independent": "Yes",
+    "name": {
+      "short": "Sierra Leone",
+      "uppercase": "SIERRA LEONE"
+    },
+    "numeric": "694",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "SG",
+    "alpha3": "SGP",
+    "independent": "Yes",
+    "name": {
+      "short": "Singapore",
+      "uppercase": "SINGAPORE"
+    },
+    "numeric": "702",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "SX",
+    "alpha3": "SXM",
+    "independent": "Part of NL",
+    "name": {
+      "short": "Sint Maarten (Dutch part)",
+      "uppercase": "SINT MAARTEN (DUTCH PART)"
+    },
+    "numeric": "534",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "SK",
+    "alpha3": "SVK",
+    "independent": "Yes",
+    "name": {
+      "short": "Slovakia",
+      "uppercase": "SLOVAKIA"
+    },
+    "numeric": "703",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "SI",
+    "alpha3": "SVN",
+    "independent": "Yes",
+    "name": {
+      "short": "Slovenia",
+      "uppercase": "SLOVENIA"
+    },
+    "numeric": "705",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "SB",
+    "alpha3": "SLB",
+    "independent": "Yes",
+    "name": {
+      "short": "Solomon Islands",
+      "uppercase": "SOLOMON ISLANDS"
+    },
+    "numeric": "090",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "SO",
+    "alpha3": "SOM",
+    "independent": "Yes",
+    "name": {
+      "short": "Somalia",
+      "uppercase": "SOMALIA"
+    },
+    "numeric": "706",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "ZA",
+    "alpha3": "ZAF",
+    "independent": "Yes",
+    "name": {
+      "short": "South Africa",
+      "uppercase": "SOUTH AFRICA"
+    },
+    "numeric": "710",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "GS",
+    "alpha3": "SGS",
+    "independent": "Territory of GB",
+    "name": {
+      "short": "South Georgia and the South Sandwich Islands",
+      "uppercase": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS"
+    },
+    "numeric": "239",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "SS",
+    "alpha3": "SSD",
+    "independent": "Yes",
+    "name": {
+      "short": "South Sudan",
+      "uppercase": "SOUTH SUDAN"
+    },
+    "numeric": "728",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "ES",
+    "alpha3": "ESP",
+    "independent": "Yes",
+    "name": {
+      "short": "Spain",
+      "uppercase": "SPAIN"
+    },
+    "numeric": "724",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "LK",
+    "alpha3": "LKA",
+    "independent": "Yes",
+    "name": {
+      "short": "Sri Lanka",
+      "uppercase": "SRI LANKA"
+    },
+    "numeric": "144",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "SD",
+    "alpha3": "SDN",
+    "independent": "Yes",
+    "name": {
+      "short": "Sudan",
+      "uppercase": "SUDAN"
+    },
+    "numeric": "729",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "SR",
+    "alpha3": "SUR",
+    "independent": "Yes",
+    "name": {
+      "short": "Suriname",
+      "uppercase": "SURINAME"
+    },
+    "numeric": "740",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "SJ",
+    "alpha3": "SJM",
+    "independent": "Territory of NO",
+    "name": {
+      "short": "Svalbard and Jan Mayen",
+      "uppercase": "SVALBARD AND JAN MAYEN"
+    },
+    "numeric": "744",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "SZ",
+    "alpha3": "SWZ",
+    "independent": "Yes",
+    "name": {
+      "short": "Swaziland",
+      "uppercase": "SWAZILAND"
+    },
+    "numeric": "748",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "SE",
+    "alpha3": "SWE",
+    "independent": "Yes",
+    "name": {
+      "short": "Sweden",
+      "uppercase": "SWEDEN"
+    },
+    "numeric": "752",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "CH",
+    "alpha3": "CHE",
+    "independent": "Yes",
+    "name": {
+      "short": "Switzerland",
+      "uppercase": "SWITZERLAND"
+    },
+    "numeric": "756",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "SY",
+    "alpha3": "SYR",
+    "independent": "Yes",
+    "name": {
+      "short": "Syrian Arab Republic",
+      "uppercase": "SYRIAN ARAB REPUBLIC"
+    },
+    "numeric": "760",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "TW",
+    "alpha3": "TWN",
+    "independent": "Yes",
+    "name": {
+      "short": "Taiwan, Province of China",
+      "uppercase": "TAIWAN, PROVINCE OF CHINA"
+    },
+    "numeric": "158",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "TJ",
+    "alpha3": "TJK",
+    "independent": "Yes",
+    "name": {
+      "short": "Tajikistan",
+      "uppercase": "TAJIKISTAN"
+    },
+    "numeric": "762",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "TZ",
+    "alpha3": "TZA",
+    "independent": "Yes",
+    "name": {
+      "short": "Tanzania, United Republic of",
+      "uppercase": "TANZANIA, UNITED REPUBLIC OF"
+    },
+    "numeric": "834",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "TH",
+    "alpha3": "THA",
+    "independent": "Yes",
+    "name": {
+      "short": "Thailand",
+      "uppercase": "THAILAND"
+    },
+    "numeric": "764",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "TL",
+    "alpha3": "TLS",
+    "independent": "Yes",
+    "name": {
+      "short": "Timor-Leste",
+      "uppercase": "TIMOR-LESTE"
+    },
+    "numeric": "626",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "TG",
+    "alpha3": "TGO",
+    "independent": "Yes",
+    "name": {
+      "short": "Togo",
+      "uppercase": "TOGO"
+    },
+    "numeric": "768",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "TK",
+    "alpha3": "TKL",
+    "independent": "Territory of NZ",
+    "name": {
+      "short": "Tokelau",
+      "uppercase": "TOKELAU"
+    },
+    "numeric": "772",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "TO",
+    "alpha3": "TON",
+    "independent": "Yes",
+    "name": {
+      "short": "Tonga",
+      "uppercase": "TONGA"
+    },
+    "numeric": "776",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "TT",
+    "alpha3": "TTO",
+    "independent": "Yes",
+    "name": {
+      "short": "Trinidad and Tobago",
+      "uppercase": "TRINIDAD AND TOBAGO"
+    },
+    "numeric": "780",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "TN",
+    "alpha3": "TUN",
+    "independent": "Yes",
+    "name": {
+      "short": "Tunisia",
+      "uppercase": "TUNISIA"
+    },
+    "numeric": "788",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "TR",
+    "alpha3": "TUR",
+    "independent": "Yes",
+    "name": {
+      "short": "Turkey",
+      "uppercase": "TURKEY"
+    },
+    "numeric": "792",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "TM",
+    "alpha3": "TKM",
+    "independent": "Yes",
+    "name": {
+      "short": "Turkmenistan",
+      "uppercase": "TURKMENISTAN"
+    },
+    "numeric": "795",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "TC",
+    "alpha3": "TCA",
+    "independent": "Territory of GB",
+    "name": {
+      "short": "Turks and Caicos Islands",
+      "uppercase": "TURKS AND CAICOS ISLANDS"
+    },
+    "numeric": "796",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "TV",
+    "alpha3": "TUV",
+    "independent": "Yes",
+    "name": {
+      "short": "Tuvalu",
+      "uppercase": "TUVALU"
+    },
+    "numeric": "798",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "UG",
+    "alpha3": "UGA",
+    "independent": "Yes",
+    "name": {
+      "short": "Uganda",
+      "uppercase": "UGANDA"
+    },
+    "numeric": "800",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "UA",
+    "alpha3": "UKR",
+    "independent": "Yes",
+    "name": {
+      "short": "Ukraine",
+      "uppercase": "UKRAINE"
+    },
+    "numeric": "804",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "AE",
+    "alpha3": "ARE",
+    "independent": "Yes",
+    "name": {
+      "short": "United Arab Emirates",
+      "uppercase": "UNITED ARAB EMIRATES"
+    },
+    "numeric": "784",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "GB",
+    "alpha3": "GBR",
+    "independent": "Yes",
+    "name": {
+      "short": "United Kingdom",
+      "uppercase": "UNITED KINGDOM"
+    },
+    "numeric": "826",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "US",
+    "alpha3": "USA",
+    "independent": "Yes",
+    "name": {
+      "short": "United States",
+      "uppercase": "UNITED STATES"
+    },
+    "numeric": "840",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "UM",
+    "alpha3": "UMI",
+    "independent": "Territories of US",
+    "name": {
+      "short": "United States Minor Outlying Islands",
+      "uppercase": "UNITED STATES MINOR OUTLYING ISLANDS"
+    },
+    "numeric": "581",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "UY",
+    "alpha3": "URY",
+    "independent": "Yes",
+    "name": {
+      "short": "Uruguay",
+      "uppercase": "URUGUAY"
+    },
+    "numeric": "858",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "UZ",
+    "alpha3": "UZB",
+    "independent": "Yes",
+    "name": {
+      "short": "Uzbekistan",
+      "uppercase": "UZBEKISTAN"
+    },
+    "numeric": "860",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "VU",
+    "alpha3": "VUT",
+    "independent": "Yes",
+    "name": {
+      "short": "Vanuatu",
+      "uppercase": "VANUATU"
+    },
+    "numeric": "548",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "VE",
+    "alpha3": "VEN",
+    "independent": "Yes",
+    "name": {
+      "short": "Venezuela, Bolivarian Republic of",
+      "uppercase": "VENEZUELA, BOLIVARIAN REPUBLIC OF"
+    },
+    "numeric": "862",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "VN",
+    "alpha3": "VNM",
+    "independent": "Yes",
+    "name": {
+      "short": "Viet Nam",
+      "uppercase": "VIET NAM"
+    },
+    "numeric": "704",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "VG",
+    "alpha3": "VGB",
+    "independent": "Territory of GB",
+    "name": {
+      "short": "Virgin Islands, British",
+      "uppercase": "VIRGIN ISLANDS, BRITISH"
+    },
+    "numeric": "092",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "VI",
+    "alpha3": "VIR",
+    "independent": "Territory of US",
+    "name": {
+      "short": "Virgin Islands, U.S.",
+      "uppercase": "VIRGIN ISLANDS, U.S."
+    },
+    "numeric": "850",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "WF",
+    "alpha3": "WLF",
+    "independent": "Territory of FR",
+    "name": {
+      "short": "Wallis and Futuna",
+      "uppercase": "WALLIS AND FUTUNA"
+    },
+    "numeric": "876",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "EH",
+    "alpha3": "ESH",
+    "independent": "In contention",
+    "name": {
+      "short": "Western Sahara",
+      "uppercase": "WESTERN SAHARA"
+    },
+    "numeric": "732",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "YE",
+    "alpha3": "YEM",
+    "independent": "Yes",
+    "name": {
+      "short": "Yemen",
+      "uppercase": "YEMEN"
+    },
+    "numeric": "887",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "YU",
+    "alpha3": "YUG",
+    "name": {
+      "short": "Yugoslavia",
+      "uppercase": "YUGOSLAVIA"
+    },
+    "numeric": "891",
+    "status": "transitionally-reserved"
+  },
+  {
+    "alpha2": "ZR",
+    "alpha3": "ZAR",
+    "name": {
+      "short": "Zaire",
+      "uppercase": "Zaire"
+    },
+    "numeric": "180",
+    "status": "transitionally-reserved"
+  },
+  {
+    "alpha2": "ZM",
+    "alpha3": "ZMB",
+    "independent": "Yes",
+    "name": {
+      "short": "Zambia",
+      "uppercase": "ZAMBIA"
+    },
+    "numeric": "894",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "ZW",
+    "alpha3": "ZWE",
+    "independent": "Yes",
+    "name": {
+      "short": "Zimbabwe",
+      "uppercase": "ZIMBABWE"
+    },
+    "numeric": "716",
+    "status": "officially-assigned"
+  },
+  {
+    "alpha2": "AX",
+    "alpha3": "ALA",
+    "independent": "Part of FI",
+    "name": {
+      "short": "Åland Islands",
+      "uppercase": "ÅLAND ISLANDS"
+    },
+    "numeric": "248",
+    "status": "officially-assigned"
+  }
+]

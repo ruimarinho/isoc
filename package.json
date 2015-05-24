@@ -1,0 +1,37 @@
+{
+  "name": "isoc",
+  "version": "0.0.0",
+  "description": "A list of country names and codes as published by the ISO 3166-1 standard",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seegno/isoc.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Rui Marinho",
+    "email": "rui.marinho@seegno.com",
+    "url": "http://seegno.com"
+  },
+  "keywords": [
+    "alpha-2",
+    "alpha-3",
+    "alpha2",
+    "alpha3",
+    "countries",
+    "iso3166",
+    "iso3166-1",
+    "list"
+  ],
+  "scripts": {
+    "changelog": "./node_modules/.bin/github-changes --owner seegno --repository isoc --auth --only-pulls --use-commit-body --title 'Changelog' --date-format '/ YYYY-MM-DD'",
+    "prepublish": "./node_modules/.bin/babel -d dist/ src/",
+    "test": "NODE_ENV=test ./node_modules/.bin/mocha --compilers js:babel/register test/*_test.js"
+  },
+  "devDependencies": {
+    "babel": "^5.4.7",
+    "github-changes": "^1.0.0",
+    "mocha": "^2.2.5",
+    "should": "^6.0.3"
+  }
+}
