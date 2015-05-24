@@ -1,6 +1,6 @@
 {
   "name": "isoc",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A list of country names and codes as published by the ISO 3166-1 standard",
   "main": "dist/index.js",
   "repository": {
