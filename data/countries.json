@@ -35,7 +35,7 @@
   {
     "alpha2": "AS",
     "alpha3": "ASM",
-    "independent": "Territory of US",
+    "independent": "No",
     "name": {
       "short": "American Samoa",
       "uppercase": "AMERICAN SAMOA"
@@ -68,7 +68,7 @@
   {
     "alpha2": "AI",
     "alpha3": "AIA",
-    "independent": "Territory of GB",
+    "independent": "No",
     "name": {
       "short": "Anguilla",
       "uppercase": "ANGUILLA"
@@ -79,7 +79,7 @@
   {
     "alpha2": "AQ",
     "alpha3": "ATA",
-    "independent": "International",
+    "independent": "No",
     "name": {
       "short": "Antarctica",
       "uppercase": "ANTARCTICA"
@@ -123,7 +123,7 @@
   {
     "alpha2": "AW",
     "alpha3": "ABW",
-    "independent": "Part of NL",
+    "independent": "No",
     "name": {
       "short": "Aruba",
       "uppercase": "ARUBA"
@@ -169,7 +169,7 @@
     "alpha3": "BHS",
     "independent": "Yes",
     "name": {
-      "short": "Bahamas",
+      "short": "Bahamas (the)",
       "uppercase": "BAHAMAS"
     },
     "numeric": "044",
@@ -255,7 +255,7 @@
   {
     "alpha2": "BM",
     "alpha3": "BMU",
-    "independent": "Territory of GB",
+    "independent": "No",
     "name": {
       "short": "Bermuda",
       "uppercase": "BERMUDA"
@@ -279,8 +279,8 @@
     "alpha3": "BOL",
     "independent": "Yes",
     "name": {
-      "short": "Bolivia, Plurinational State of",
-      "uppercase": "BOLIVIA, PLURINATIONAL STATE OF"
+      "short": "Bolivia (Plurinational State of)",
+      "uppercase": "BOLIVIA (PLURINATIONAL STATE OF)"
     },
     "numeric": "068",
     "status": "officially-assigned"
@@ -288,7 +288,7 @@
   {
     "alpha2": "BQ",
     "alpha3": "BES",
-    "independent": "Part of NL",
+    "independent": "No",
     "name": {
       "short": "Bonaire, Sint Eustatius and Saba",
       "uppercase": "BONAIRE, SINT EUSTATIUS AND SABA"
@@ -321,7 +321,7 @@
   {
     "alpha2": "BV",
     "alpha3": "BVT",
-    "independent": "Territory of NO",
+    "independent": "No",
     "name": {
       "short": "Bouvet Island",
       "uppercase": "BOUVET ISLAND"
@@ -343,9 +343,9 @@
   {
     "alpha2": "IO",
     "alpha3": "IOT",
-    "independent": "Territory of GB",
+    "independent": "No",
     "name": {
-      "short": "British Indian Ocean Territory",
+      "short": "British Indian Ocean Territory (the)",
       "uppercase": "BRITISH INDIAN OCEAN TERRITORY"
     },
     "numeric": "086",
@@ -387,9 +387,10 @@
   {
     "alpha2": "BU",
     "alpha3": "BUR",
+    "independent": "",
     "name": {
       "short": "Burma",
-      "uppercase": "BURMA"
+      "uppercase": "Burma"
     },
     "numeric": "104",
     "status": "transitionally-reserved"
@@ -443,7 +444,7 @@
     "alpha3": "CPV",
     "independent": "Yes",
     "name": {
-      "short": "Cape Verde",
+      "short": "Cabo Verde",
       "uppercase": "CABO VERDE"
     },
     "numeric": "132",
@@ -452,9 +453,9 @@
   {
     "alpha2": "KY",
     "alpha3": "CYM",
-    "independent": "Territory of GB",
+    "independent": "No",
     "name": {
-      "short": "Cayman Islands",
+      "short": "Cayman Islands (the)",
       "uppercase": "CAYMAN ISLANDS"
     },
     "numeric": "136",
@@ -465,7 +466,7 @@
     "alpha3": "CAF",
     "independent": "Yes",
     "name": {
-      "short": "Central African Republic",
+      "short": "Central African Republic (the)",
       "uppercase": "CENTRAL AFRICAN REPUBLIC"
     },
     "numeric": "140",
@@ -507,7 +508,7 @@
   {
     "alpha2": "CX",
     "alpha3": "CXR",
-    "independent": "Territory of AU",
+    "independent": "No",
     "name": {
       "short": "Christmas Island",
       "uppercase": "CHRISTMAS ISLAND"
@@ -518,9 +519,9 @@
   {
     "alpha2": "CC",
     "alpha3": "CCK",
-    "independent": "Territory of AU",
+    "independent": "No",
     "name": {
-      "short": "Cocos (Keeling) Islands",
+      "short": "Cocos (Keeling) Islands (the)",
       "uppercase": "COCOS (KEELING) ISLANDS"
     },
     "numeric": "166",
@@ -542,7 +543,7 @@
     "alpha3": "COM",
     "independent": "Yes",
     "name": {
-      "short": "Comoros",
+      "short": "Comoros (the)",
       "uppercase": "COMOROS"
     },
     "numeric": "174",
@@ -553,7 +554,7 @@
     "alpha3": "COG",
     "independent": "Yes",
     "name": {
-      "short": "Congo",
+      "short": "Congo (the)",
       "uppercase": "CONGO"
     },
     "numeric": "178",
@@ -564,7 +565,7 @@
     "alpha3": "COD",
     "independent": "Yes",
     "name": {
-      "short": "Congo, the Democratic Republic of the",
+      "short": "Congo (the Democratic Republic of the)",
       "uppercase": "CONGO, DEMOCRATIC REPUBLIC OF THE"
     },
     "numeric": "180",
@@ -573,9 +574,9 @@
   {
     "alpha2": "CK",
     "alpha3": "COK",
-    "independent": "Associated with NZ",
+    "independent": "No",
     "name": {
-      "short": "Cook Islands",
+      "short": "Cook Islands (the)",
       "uppercase": "COOK ISLANDS"
     },
     "numeric": "184",
@@ -617,7 +618,7 @@
   {
     "alpha2": "CW",
     "alpha3": "CUW",
-    "independent": "Part of NL",
+    "independent": "No",
     "name": {
       "short": "Curaçao",
       "uppercase": "CURAÇAO"
@@ -641,7 +642,7 @@
     "alpha3": "CZE",
     "independent": "Yes",
     "name": {
-      "short": "Czech Republic",
+      "short": "Czech Republic (the)",
       "uppercase": "CZECH REPUBLIC"
     },
     "numeric": "203",
@@ -696,7 +697,7 @@
     "alpha3": "DOM",
     "independent": "Yes",
     "name": {
-      "short": "Dominican Republic",
+      "short": "Dominican Republic (the)",
       "uppercase": "DOMINICAN REPUBLIC"
     },
     "numeric": "214",
@@ -705,9 +706,10 @@
   {
     "alpha2": "TP",
     "alpha3": "TMP",
+    "independent": "",
     "name": {
       "short": "East Timor",
-      "uppercase": "EAST TIMOR"
+      "uppercase": "East Timor"
     },
     "numeric": "626",
     "status": "transitionally-reserved"
@@ -792,9 +794,9 @@
   {
     "alpha2": "FK",
     "alpha3": "FLK",
-    "independent": "Territory of GB",
+    "independent": "No",
     "name": {
-      "short": "Falkland Islands (Malvinas)",
+      "short": "Falkland Islands (the) [Malvinas]",
       "uppercase": "FALKLAND ISLANDS (MALVINAS)"
     },
     "numeric": "238",
@@ -803,9 +805,9 @@
   {
     "alpha2": "FO",
     "alpha3": "FRO",
-    "independent": "Part of DK",
+    "independent": "No",
     "name": {
-      "short": "Faroe Islands",
+      "short": "Faroe Islands (the)",
       "uppercase": "FAROE ISLANDS"
     },
     "numeric": "234",
@@ -847,7 +849,7 @@
   {
     "alpha2": "GF",
     "alpha3": "GUF",
-    "independent": "Part of FR",
+    "independent": "No",
     "name": {
       "short": "French Guiana",
       "uppercase": "FRENCH GUIANA"
@@ -858,7 +860,7 @@
   {
     "alpha2": "PF",
     "alpha3": "PYF",
-    "independent": "Territory of FR",
+    "independent": "No",
     "name": {
       "short": "French Polynesia",
       "uppercase": "FRENCH POLYNESIA"
@@ -869,9 +871,9 @@
   {
     "alpha2": "TF",
     "alpha3": "ATF",
-    "independent": "Territory of FR",
+    "independent": "No",
     "name": {
-      "short": "French Southern Territories",
+      "short": "French Southern Territories (the)",
       "uppercase": "FRENCH SOUTHERN TERRITORIES"
     },
     "numeric": "260",
@@ -893,7 +895,7 @@
     "alpha3": "GMB",
     "independent": "Yes",
     "name": {
-      "short": "Gambia",
+      "short": "Gambia (the)",
       "uppercase": "GAMBIA"
     },
     "numeric": "270",
@@ -935,7 +937,7 @@
   {
     "alpha2": "GI",
     "alpha3": "GIB",
-    "independent": "Territory of GB",
+    "independent": "No",
     "name": {
       "short": "Gibraltar",
       "uppercase": "GIBRALTAR"
@@ -957,7 +959,7 @@
   {
     "alpha2": "GL",
     "alpha3": "GRL",
-    "independent": "Part of DK",
+    "independent": "No",
     "name": {
       "short": "Greenland",
       "uppercase": "GREENLAND"
@@ -979,7 +981,7 @@
   {
     "alpha2": "GP",
     "alpha3": "GLP",
-    "independent": "Part of FR",
+    "independent": "No",
     "name": {
       "short": "Guadeloupe",
       "uppercase": "GUADELOUPE"
@@ -990,7 +992,7 @@
   {
     "alpha2": "GU",
     "alpha3": "GUM",
-    "independent": "Territory of US",
+    "independent": "No",
     "name": {
       "short": "Guam",
       "uppercase": "GUAM"
@@ -1012,7 +1014,7 @@
   {
     "alpha2": "GG",
     "alpha3": "GGY",
-    "independent": "Crown dependency of GB",
+    "independent": "No",
     "name": {
       "short": "Guernsey",
       "uppercase": "GUERNSEY"
@@ -1067,9 +1069,9 @@
   {
     "alpha2": "HM",
     "alpha3": "HMD",
-    "independent": "Territory of AU",
+    "independent": "No",
     "name": {
-      "short": "Heard Island and Mcdonald Islands",
+      "short": "Heard Island and McDonald Islands",
       "uppercase": "HEARD ISLAND AND MCDONALD ISLANDS"
     },
     "numeric": "334",
@@ -1080,8 +1082,8 @@
     "alpha3": "VAT",
     "independent": "Yes",
     "name": {
-      "short": "Holy See (Vatican City State)",
-      "uppercase": "HOLY SEE (VATICAN CITY STATE)"
+      "short": "Holy See (the)",
+      "uppercase": "HOLY SEE"
     },
     "numeric": "336",
     "status": "officially-assigned"
@@ -1100,7 +1102,7 @@
   {
     "alpha2": "HK",
     "alpha3": "HKG",
-    "independent": "Part of CN",
+    "independent": "No",
     "name": {
       "short": "Hong Kong",
       "uppercase": "HONG KONG"
@@ -1157,8 +1159,8 @@
     "alpha3": "IRN",
     "independent": "Yes",
     "name": {
-      "short": "Iran, Islamic Republic of",
-      "uppercase": "IRAN, ISLAMIC REPUBLIC OF"
+      "short": "Iran (Islamic Republic of)",
+      "uppercase": "IRAN (ISLAMIC REPUBLIC OF)"
     },
     "numeric": "364",
     "status": "officially-assigned"
@@ -1188,7 +1190,7 @@
   {
     "alpha2": "IM",
     "alpha3": "IMN",
-    "independent": "Crown dependency of GB",
+    "independent": "No",
     "name": {
       "short": "Isle of Man",
       "uppercase": "ISLE OF MAN"
@@ -1243,7 +1245,7 @@
   {
     "alpha2": "JE",
     "alpha3": "JEY",
-    "independent": "Crown dependency of GB",
+    "independent": "No",
     "name": {
       "short": "Jersey",
       "uppercase": "JERSEY"
@@ -1300,8 +1302,8 @@
     "alpha3": "PRK",
     "independent": "Yes",
     "name": {
-      "short": "Korea, Democratic People's Republic of",
-      "uppercase": "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF"
+      "short": "Korea (the Democratic People's Republic of)",
+      "uppercase": "KOREA (DEMOCRATIC PEOPLE'S REPUBLIC OF)"
     },
     "numeric": "408",
     "status": "officially-assigned"
@@ -1311,7 +1313,7 @@
     "alpha3": "KOR",
     "independent": "Yes",
     "name": {
-      "short": "Korea, Republic of",
+      "short": "Korea (the Republic of)",
       "uppercase": "KOREA, REPUBLIC OF"
     },
     "numeric": "410",
@@ -1353,7 +1355,7 @@
     "alpha3": "LAO",
     "independent": "Yes",
     "name": {
-      "short": "Lao People's Democratic Republic",
+      "short": "Lao People's Democratic Republic (the)",
       "uppercase": "LAO PEOPLE'S DEMOCRATIC REPUBLIC"
     },
     "numeric": "418",
@@ -1450,7 +1452,7 @@
   {
     "alpha2": "MO",
     "alpha3": "MAC",
-    "independent": "Part of CN",
+    "independent": "No",
     "name": {
       "short": "Macao",
       "uppercase": "MACAO"
@@ -1463,7 +1465,7 @@
     "alpha3": "MKD",
     "independent": "Yes",
     "name": {
-      "short": "Macedonia, the Former Yugoslav Republic of",
+      "short": "Macedonia (the former Yugoslav Republic of)",
       "uppercase": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF"
     },
     "numeric": "807",
@@ -1540,7 +1542,7 @@
     "alpha3": "MHL",
     "independent": "Yes",
     "name": {
-      "short": "Marshall Islands",
+      "short": "Marshall Islands (the)",
       "uppercase": "MARSHALL ISLANDS"
     },
     "numeric": "584",
@@ -1549,7 +1551,7 @@
   {
     "alpha2": "MQ",
     "alpha3": "MTQ",
-    "independent": "Part of FR",
+    "independent": "No",
     "name": {
       "short": "Martinique",
       "uppercase": "MARTINIQUE"
@@ -1582,7 +1584,7 @@
   {
     "alpha2": "YT",
     "alpha3": "MYT",
-    "independent": "Part of FR",
+    "independent": "No",
     "name": {
       "short": "Mayotte",
       "uppercase": "MAYOTTE"
@@ -1606,8 +1608,8 @@
     "alpha3": "FSM",
     "independent": "Yes",
     "name": {
-      "short": "Micronesia, Federated States of",
-      "uppercase": "MICRONESIA, FEDERATED STATES OF"
+      "short": "Micronesia (Federated States of)",
+      "uppercase": "MICRONESIA (FEDERATED STATES OF)"
     },
     "numeric": "583",
     "status": "officially-assigned"
@@ -1617,7 +1619,7 @@
     "alpha3": "MDA",
     "independent": "Yes",
     "name": {
-      "short": "Moldova, Republic of",
+      "short": "Moldova (the Republic of)",
       "uppercase": "MOLDOVA, REPUBLIC OF"
     },
     "numeric": "498",
@@ -1659,7 +1661,7 @@
   {
     "alpha2": "MS",
     "alpha3": "MSR",
-    "independent": "Territory of GB",
+    "independent": "No",
     "name": {
       "short": "Montserrat",
       "uppercase": "MONTSERRAT"
@@ -1736,10 +1738,10 @@
   {
     "alpha2": "AN",
     "alpha3": "ANT",
-    "independent": "Yes",
+    "independent": "",
     "name": {
       "short": "Netherlands Antilles",
-      "uppercase": "NETHERLANDS ANTILLES"
+      "uppercase": "Netherlands Antilles"
     },
     "numeric": "530",
     "status": "transitionally-reserved"
@@ -1749,7 +1751,7 @@
     "alpha3": "NLD",
     "independent": "Yes",
     "name": {
-      "short": "Netherlands",
+      "short": "Netherlands (the)",
       "uppercase": "NETHERLANDS"
     },
     "numeric": "528",
@@ -1758,9 +1760,10 @@
   {
     "alpha2": "NT",
     "alpha3": "NTZ",
+    "independent": "",
     "name": {
       "short": "Neutral Zone",
-      "uppercase": "NEUTRAL ZONE"
+      "uppercase": "Neutral Zone"
     },
     "numeric": "536",
     "status": "transitionally-reserved"
@@ -1768,7 +1771,7 @@
   {
     "alpha2": "NC",
     "alpha3": "NCL",
-    "independent": "Territory of FR",
+    "independent": "No",
     "name": {
       "short": "New Caledonia",
       "uppercase": "NEW CALEDONIA"
@@ -1803,7 +1806,7 @@
     "alpha3": "NER",
     "independent": "Yes",
     "name": {
-      "short": "Niger",
+      "short": "Niger (the)",
       "uppercase": "NIGER"
     },
     "numeric": "562",
@@ -1823,7 +1826,7 @@
   {
     "alpha2": "NU",
     "alpha3": "NIU",
-    "independent": "Associated with NZ",
+    "independent": "No",
     "name": {
       "short": "Niue",
       "uppercase": "NIUE"
@@ -1834,7 +1837,7 @@
   {
     "alpha2": "NF",
     "alpha3": "NFK",
-    "independent": "Territory of AU",
+    "independent": "No",
     "name": {
       "short": "Norfolk Island",
       "uppercase": "NORFOLK ISLAND"
@@ -1845,9 +1848,9 @@
   {
     "alpha2": "MP",
     "alpha3": "MNP",
-    "independent": "Commonwealth of US",
+    "independent": "No",
     "name": {
-      "short": "Northern Mariana Islands",
+      "short": "Northern Mariana Islands (the)",
       "uppercase": "NORTHERN MARIANA ISLANDS"
     },
     "numeric": "580",
@@ -1900,7 +1903,7 @@
   {
     "alpha2": "PS",
     "alpha3": "PSE",
-    "independent": "In contention",
+    "independent": "No",
     "name": {
       "short": "Palestine, State of",
       "uppercase": "PALESTINE, STATE OF"
@@ -1957,7 +1960,7 @@
     "alpha3": "PHL",
     "independent": "Yes",
     "name": {
-      "short": "Philippines",
+      "short": "Philippines (the)",
       "uppercase": "PHILIPPINES"
     },
     "numeric": "608",
@@ -1966,7 +1969,7 @@
   {
     "alpha2": "PN",
     "alpha3": "PCN",
-    "independent": "Territory of GB",
+    "independent": "No",
     "name": {
       "short": "Pitcairn",
       "uppercase": "PITCAIRN"
@@ -1999,7 +2002,7 @@
   {
     "alpha2": "PR",
     "alpha3": "PRI",
-    "independent": "Commonwealth of US",
+    "independent": "No",
     "name": {
       "short": "Puerto Rico",
       "uppercase": "PUERTO RICO"
@@ -2034,7 +2037,7 @@
     "alpha3": "RUS",
     "independent": "Yes",
     "name": {
-      "short": "Russian Federation",
+      "short": "Russian Federation (the)",
       "uppercase": "RUSSIAN FEDERATION"
     },
     "numeric": "643",
@@ -2054,7 +2057,7 @@
   {
     "alpha2": "RE",
     "alpha3": "REU",
-    "independent": "Part of FR",
+    "independent": "No",
     "name": {
       "short": "Réunion",
       "uppercase": "RÉUNION"
@@ -2065,7 +2068,7 @@
   {
     "alpha2": "BL",
     "alpha3": "BLM",
-    "independent": "Part of FR",
+    "independent": "No",
     "name": {
       "short": "Saint Barthélemy",
       "uppercase": "SAINT BARTHÉLEMY"
@@ -2076,7 +2079,7 @@
   {
     "alpha2": "SH",
     "alpha3": "SHN",
-    "independent": "Territory of GB",
+    "independent": "No",
     "name": {
       "short": "Saint Helena, Ascension and Tristan da Cunha",
       "uppercase": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA"
@@ -2109,7 +2112,7 @@
   {
     "alpha2": "MF",
     "alpha3": "MAF",
-    "independent": "Part of FR",
+    "independent": "No",
     "name": {
       "short": "Saint Martin (French part)",
       "uppercase": "SAINT MARTIN (FRENCH PART)"
@@ -2120,7 +2123,7 @@
   {
     "alpha2": "PM",
     "alpha3": "SPM",
-    "independent": "Part of FR",
+    "independent": "No",
     "name": {
       "short": "Saint Pierre and Miquelon",
       "uppercase": "SAINT PIERRE AND MIQUELON"
@@ -2197,6 +2200,7 @@
   {
     "alpha2": "CS",
     "alpha3": "SCG",
+    "independent": "",
     "name": {
       "short": "Serbia and Montenegro",
       "uppercase": "SERBIA AND MONTENEGRO"
@@ -2251,7 +2255,7 @@
   {
     "alpha2": "SX",
     "alpha3": "SXM",
-    "independent": "Part of NL",
+    "independent": "No",
     "name": {
       "short": "Sint Maarten (Dutch part)",
       "uppercase": "SINT MAARTEN (DUTCH PART)"
@@ -2317,7 +2321,7 @@
   {
     "alpha2": "GS",
     "alpha3": "SGS",
-    "independent": "Territory of GB",
+    "independent": "No",
     "name": {
       "short": "South Georgia and the South Sandwich Islands",
       "uppercase": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS"
@@ -2363,7 +2367,7 @@
     "alpha3": "SDN",
     "independent": "Yes",
     "name": {
-      "short": "Sudan",
+      "short": "Sudan (the)",
       "uppercase": "SUDAN"
     },
     "numeric": "729",
@@ -2383,7 +2387,7 @@
   {
     "alpha2": "SJ",
     "alpha3": "SJM",
-    "independent": "Territory of NO",
+    "independent": "No",
     "name": {
       "short": "Svalbard and Jan Mayen",
       "uppercase": "SVALBARD AND JAN MAYEN"
@@ -2438,9 +2442,9 @@
   {
     "alpha2": "TW",
     "alpha3": "TWN",
-    "independent": "Yes",
+    "independent": "No",
     "name": {
-      "short": "Taiwan, Province of China",
+      "short": "Taiwan (Province of China)",
       "uppercase": "TAIWAN, PROVINCE OF CHINA"
     },
     "numeric": "158",
@@ -2504,7 +2508,7 @@
   {
     "alpha2": "TK",
     "alpha3": "TKL",
-    "independent": "Territory of NZ",
+    "independent": "No",
     "name": {
       "short": "Tokelau",
       "uppercase": "TOKELAU"
@@ -2570,9 +2574,9 @@
   {
     "alpha2": "TC",
     "alpha3": "TCA",
-    "independent": "Territory of GB",
+    "independent": "No",
     "name": {
-      "short": "Turks and Caicos Islands",
+      "short": "Turks and Caicos Islands (the)",
       "uppercase": "TURKS AND CAICOS ISLANDS"
     },
     "numeric": "796",
@@ -2616,7 +2620,7 @@
     "alpha3": "ARE",
     "independent": "Yes",
     "name": {
-      "short": "United Arab Emirates",
+      "short": "United Arab Emirates (the)",
       "uppercase": "UNITED ARAB EMIRATES"
     },
     "numeric": "784",
@@ -2627,8 +2631,8 @@
     "alpha3": "GBR",
     "independent": "Yes",
     "name": {
-      "short": "United Kingdom",
-      "uppercase": "UNITED KINGDOM"
+      "short": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "uppercase": "UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN  IRELAND"
     },
     "numeric": "826",
     "status": "officially-assigned"
@@ -2638,8 +2642,8 @@
     "alpha3": "USA",
     "independent": "Yes",
     "name": {
-      "short": "United States",
-      "uppercase": "UNITED STATES"
+      "short": "United States of America (the)",
+      "uppercase": "UNITED STATES OF AMERICA"
     },
     "numeric": "840",
     "status": "officially-assigned"
@@ -2647,9 +2651,9 @@
   {
     "alpha2": "UM",
     "alpha3": "UMI",
-    "independent": "Territories of US",
+    "independent": "No",
     "name": {
-      "short": "United States Minor Outlying Islands",
+      "short": "United States Minor Outlying Islands (the)",
       "uppercase": "UNITED STATES MINOR OUTLYING ISLANDS"
     },
     "numeric": "581",
@@ -2693,8 +2697,8 @@
     "alpha3": "VEN",
     "independent": "Yes",
     "name": {
-      "short": "Venezuela, Bolivarian Republic of",
-      "uppercase": "VENEZUELA, BOLIVARIAN REPUBLIC OF"
+      "short": "Venezuela (Bolivarian Republic of)",
+      "uppercase": "VENEZUELA (BOLIVARIAN REPUBLIC OF)"
     },
     "numeric": "862",
     "status": "officially-assigned"
@@ -2713,10 +2717,10 @@
   {
     "alpha2": "VG",
     "alpha3": "VGB",
-    "independent": "Territory of GB",
+    "independent": "No",
     "name": {
-      "short": "Virgin Islands, British",
-      "uppercase": "VIRGIN ISLANDS, BRITISH"
+      "short": "Virgin Islands (British)",
+      "uppercase": "VIRGIN ISLANDS (BRITISH)"
     },
     "numeric": "092",
     "status": "officially-assigned"
@@ -2724,10 +2728,10 @@
   {
     "alpha2": "VI",
     "alpha3": "VIR",
-    "independent": "Territory of US",
+    "independent": "No",
     "name": {
-      "short": "Virgin Islands, U.S.",
-      "uppercase": "VIRGIN ISLANDS, U.S."
+      "short": "Virgin Islands (U.S.)",
+      "uppercase": "VIRGIN ISLANDS (U.S.)"
     },
     "numeric": "850",
     "status": "officially-assigned"
@@ -2735,7 +2739,7 @@
   {
     "alpha2": "WF",
     "alpha3": "WLF",
-    "independent": "Territory of FR",
+    "independent": "No",
     "name": {
       "short": "Wallis and Futuna",
       "uppercase": "WALLIS AND FUTUNA"
@@ -2746,10 +2750,10 @@
   {
     "alpha2": "EH",
     "alpha3": "ESH",
-    "independent": "In contention",
+    "independent": "No",
     "name": {
-      "short": "Western Sahara",
-      "uppercase": "WESTERN SAHARA"
+      "short": "Western Sahara*",
+      "uppercase": "WESTERN SAHARA *"
     },
     "numeric": "732",
     "status": "officially-assigned"
@@ -2768,9 +2772,10 @@
   {
     "alpha2": "YU",
     "alpha3": "YUG",
+    "independent": "",
     "name": {
       "short": "Yugoslavia",
-      "uppercase": "YUGOSLAVIA"
+      "uppercase": "Yugoslavia"
     },
     "numeric": "891",
     "status": "transitionally-reserved"
@@ -2778,6 +2783,7 @@
   {
     "alpha2": "ZR",
     "alpha3": "ZAR",
+    "independent": "",
     "name": {
       "short": "Zaire",
       "uppercase": "Zaire"
@@ -2810,7 +2816,7 @@
   {
     "alpha2": "AX",
     "alpha3": "ALA",
-    "independent": "Part of FI",
+    "independent": "No",
     "name": {
       "short": "Åland Islands",
       "uppercase": "ÅLAND ISLANDS"
